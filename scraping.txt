@@ -1,0 +1,12 @@
+Heading Utama: Idotoho Reimon Simanjuntak
+H1: Idotoho Reimon Simanjuntak
+H2: Informatics Student @ Bandung State Polytechnic
+H3: About
+H3: Experiences
+H3: Skills
+H4: Fun Facts About Me
+Paragraf 1 dalam Tentang: Hello, I am an informatics student and aspiring developer.
+Paragraf 2 dalam Tentang: I am interested in Linux, machine learning, software development, and data science.
+Link Navigasi: #tentang - About
+Link Navigasi: #pengalaman - Experiences
+Link Navigasi: https://instagram.com/idotohos_ - Social Media
